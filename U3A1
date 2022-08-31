@@ -1,1 +1,0 @@
-CREATE TABLE  Drivers (DriverID INT, LastName varchar (255), FirstName varchar (255), OriginCity varchar (255));
